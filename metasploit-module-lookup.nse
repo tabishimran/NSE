@@ -16,6 +16,7 @@ categories={"safe"}
 -- @usage
 -- nmap -sV --script metasploit_lookup.nse <host>
 --
+--
 -- @output
 -- PORT     STATE SERVICE         VERSION
 -- 23/tcp   open  telnet          Linux telnetd
